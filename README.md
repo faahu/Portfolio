@@ -1,4 +1,4 @@
-##  👋 Hi, I’m @faaju
+##  👋 Hi, I’m @faahu
 - 👀 Portofolio
 - 🌱 Contact me 
 
