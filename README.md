@@ -1,7 +1,6 @@
 ##  👋 Hi, I’m @faahu
 - 👀 Portofolio
 - 🌱 Contact me 
-
 ### Projects!
 • https://faahu.github.io/Heladeria/ 
 • https://melinavanesa.github.io/WeatherApp/
