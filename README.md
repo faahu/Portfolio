@@ -2,8 +2,8 @@
 - 👀 Portfolio https://faahu.github.io/faahu/
 - 🌱 Contact me facundopurdie@gmail.com
 ### Projects!
-• https://faahu.github.io/DecorHome/
-<br>
+• https://faahu.github.io/Heladeria/ <br>
+• https://faahu.github.io/DecorHome/ <br>
 • https://faahu.github.io/Heladeria/ <br>
 • https://melinavanesa.github.io/WeatherApp/ <br> 
 • https://melinavanesa.github.io/Lista-de-Tareas/ <br>
