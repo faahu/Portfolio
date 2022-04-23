@@ -8,6 +8,7 @@ body {
 	background: #fff;
 	font-family: "Open Sans", Sans-serif;
 	font-size: 16px;
+	background: radial-gradient(#2d0b32, #000000);
 	/* background-image:url('myImage.gif'); background-repeat:repeat;  */
 }
 
@@ -25,6 +26,7 @@ header {
 	background-repeat: no-repeat;
 	background-position: center;
 	max-height: 600px;
+	/* asfasf */
 }
 
 header .menu {
@@ -75,11 +77,12 @@ header .contenedor-texto {
 }
 
 header .contenedor-texto .texto {
-	border: 2px solid rgba(255, 255, 255, 0.5);
+	border: 1px solid rgba(255, 255, 255, 0.925);
 	border-radius: 3px;
 	display: inline-block;
 	text-align: center;
 	padding: 20px 60px;
+	background-color: #0000009f;
 
 }
 
@@ -88,6 +91,7 @@ header .contenedor-texto .texto h2 {
 	color: #fff;
 	font-weight: 300;
 	margin: 0;
+
 }
 
 header .contenedor-texto .texto .nombre {
@@ -95,8 +99,8 @@ header .contenedor-texto .texto .nombre {
 	font-size: 50px;
 	line-height: 50px;
 	color: rgb(255, 255, 255);
-	text-shadow:
-		0 0 3px rgb(255, 187, 0);
+	/* text-shadow:
+		0 0 3px rgb(255, 187, 0); */
 }
 
 header .contenedor-texto .texto .profesion {
@@ -130,7 +134,7 @@ a {
 }
 
 .main .acerca-de .texto {
-	color: #5a5a5a;
+	color: #e9e9e9;
 	font-weight: 600;
 	font-size: 1em;
 	line-height: 30px;
@@ -145,6 +149,9 @@ a {
 	font-weight: 300;
 	color: #dd820d;
 	text-align: center;
+	/* border-style: dashed; */
+	font-weight: bold;
+
 }
 
 .main .acerca-de .texto .bold {
@@ -155,7 +162,7 @@ a {
 .main .trabajos {
 	background: #f2f2f2;
 	padding: 60px 0;
-
+	background: radial-gradient(#2d0b32, #000000)
 }
 
 .main .trabajos .contenedor {
@@ -167,8 +174,10 @@ a {
 	line-height: 34px;
 	margin-bottom: 40px;
 	font-weight: 300;
-	color: #323068;
+	color: #0479ff;
 	text-align: center;
+	/* border-style: dashed; */
+	font-weight: bold;
 }
 
 .main .trabajos .contenedor-trabajos {
@@ -211,7 +220,7 @@ a {
 
 .main .trabajos .contenedor-trabajos .trabajo .descripcion .categoria {
 	font-size: 14px;
-	color: #636363;
+	color: #cccccc;
 }
 
 /* ----- ----- FOOTER ----- ----- */
@@ -281,8 +290,9 @@ footer .contacto .formulario .boton:hover {
 }
 
 footer .redes-sociales {
-	background: #1e2b38;
+	background: radial-gradient(#210024, #000000);
 	padding: 60px 0;
+
 }
 
 footer .redes-sociales .contenedor {
