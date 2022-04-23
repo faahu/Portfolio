@@ -8,6 +8,7 @@ body {
 	background: #fff;
 	font-family: "Open Sans", Sans-serif;
 	font-size: 16px;
+	/* background-image:url('myImage.gif'); background-repeat:repeat;  */
 }
 
 .contenedor {
@@ -20,7 +21,7 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-	background: url('../img/bj.jpg') #49a3d6;
+	background: url('../img/fondo1.gif') #49a3d6;
 	background-repeat: no-repeat;
 	background-position: center;
 	max-height: 600px;
@@ -154,6 +155,7 @@ a {
 .main .trabajos {
 	background: #f2f2f2;
 	padding: 60px 0;
+
 }
 
 .main .trabajos .contenedor {
