@@ -22,3 +22,6 @@ You can click the Preview link to take a look at your changes.
 <p align="right">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </p>
+
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6440859de27257737492aa76?variant=dark&roadmaps=javascript)](https://roadmap.sh)
